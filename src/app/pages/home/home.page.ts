@@ -91,6 +91,9 @@ export class HomePage implements OnInit {
     // Redirige al usuario a la pantalla de inicio de sesión
     this.router.navigate(['/login']); // Reemplaza '/login' por la ruta real de tu pantalla de inicio de sesión
   }
+
+  
+
 }
 
 interface Season {
